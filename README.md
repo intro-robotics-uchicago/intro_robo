@@ -14,4 +14,4 @@ All such content is in the `intro_robo_utils` directory.
 
 ## Scripts and other programs
 
-All such content is in the `bin directory`.
+All such content is in the `bin` dircotry.

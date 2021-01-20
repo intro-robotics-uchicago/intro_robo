@@ -1,3 +1,6 @@
 [submodule "class_meeting_02_stop_at_wall"]
 	path = class_meeting_02_stop_at_wall
 	url = https://github.com/intro-robotics-uchicago/class_meeting_02_stop_at_wall
+[submodule "class_meeting_03_line_follower"]
+	path = class_meeting_03_line_follower
+	url = https://github.com/intro-robotics-uchicago/class_meeting_03_line_follower

@@ -4,3 +4,6 @@
 [submodule "class_meeting_03_line_follower"]
 	path = class_meeting_03_line_follower
 	url = https://github.com/intro-robotics-uchicago/class_meeting_03_line_follower
+[submodule "class_meeting_06_likelihood_field"]
+	path = class_meeting_06_likelihood_field
+	url = https://github.com/intro-robotics-uchicago/class_meeting_06_likelihood_field

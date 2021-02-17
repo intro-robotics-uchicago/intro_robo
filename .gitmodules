@@ -7,3 +7,6 @@
 [submodule "class_meeting_06_likelihood_field"]
 	path = class_meeting_06_likelihood_field
 	url = https://github.com/intro-robotics-uchicago/class_meeting_06_likelihood_field
+[submodule "class_meeting_11_cat_recognition"]
+	path = class_meeting_11_cat_recognition
+	url = https://github.com/intro-robotics-uchicago/class_meeting_11_cat_recognition.git
